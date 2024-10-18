@@ -517,29 +517,3 @@ class YNet:
 	def save(self, path):
 		torch.save(self.model.state_dict(), path)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
